@@ -19,13 +19,13 @@ Investigated the relationship between executive social media activity and short-
 
 Applied structure learning and probabilistic inference to a dataset of simulated patients. The goal was to uncover latent relationships between lifestyle factors and health outcomes through learned Bayesian networks.
 
-- Build a manually specified Bayesian Network and learn CPTs from data
+- Built a manually specified Bayesian Network and learned CPTs from data
 - Apply structure learning algorithms:
   - Hill Climb Search
   - Exhaustive Search
   - Tree Augmented Naive Bayes (TAN)
-- Evaluate structures using Bayesian Information Criterion (BIC)
-- Select the most effective model for further inference
+- Evaluated structures using Bayesian Information Criterion (BIC)
+- Selected the most effective model for further inference
 
 
 ## Tools & Libraries
@@ -33,4 +33,4 @@ Applied structure learning and probabilistic inference to a dataset of simulated
 - `pgmpy`
 - `pandas`, `numpy`, `matplotlib`
 - `networkx`
-- `scikit-learn` (for preprocessing and metrics)
+- `scikit-learn`
