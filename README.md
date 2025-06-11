@@ -1,6 +1,6 @@
 Explorations in probabilistic reasoning, structure learning and decision theory. 
 
-## Project 1: Event Inference in Financial Markets
+## Event Inference in Financial Markets
 
 Investigated the relationship between executive social media activity and short-term stock price movement. Using a simple probabilistic model, I:
 
@@ -15,7 +15,7 @@ Investigated the relationship between executive social media activity and short-
 - Discrete Probabilistic Modeling
 
 
-## Project 2: Structure Learning on Simulated Health Data
+## Structure Learning on Simulated Health Data
 
 Applied structure learning and probabilistic inference to a dataset of simulated patients. The goal was to uncover latent relationships between lifestyle factors and health outcomes through learned Bayesian networks.
 
@@ -24,9 +24,7 @@ Applied structure learning and probabilistic inference to a dataset of simulated
   - Hill Climb Search
   - Exhaustive Search
   - Tree Augmented Naive Bayes (TAN)
-- Evaluated structures using Bayesian Information Criterion (BIC)
-- Selected the most effective model for further inference
-
+- Evaluated structures using BIC
 
 ## Tools & Libraries
 
