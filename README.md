@@ -1,15 +1,13 @@
 Explorations in probabilistic reasoning, structure learning and decision theory. 
 
-## Project 1: Event-Based Inference in Financial Markets
+## Project 1: Event Inference in Financial Markets
 
-Investigates the relationship between executive social media activity and short-term stock price movement. Using a simple probabilistic model, we:
+Investigates the relationship between executive social media activity and short-term stock price movement. Using a simple probabilistic model, I:
 
 - Represent CEO posts as observable variables
 - Model stock price change as a hidden variable
 - Estimate conditional probabilities based on historical patterns
 - Compute expected utility for trading strategies under uncertainty
-
-This approach simulates a decision-support tool for traders using public sentiment as a probabilistic signal.
 
 ### Techniques
 - Bayesian Inference
