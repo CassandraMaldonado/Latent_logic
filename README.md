@@ -2,12 +2,12 @@ Explorations in probabilistic reasoning, structure learning and decision theory.
 
 ## Project 1: Event Inference in Financial Markets
 
-Investigates the relationship between executive social media activity and short-term stock price movement. Using a simple probabilistic model, I:
+Investigated the relationship between executive social media activity and short-term stock price movement. Using a simple probabilistic model, I:
 
-- Represent CEO posts as observable variables
-- Model stock price change as a hidden variable
-- Estimate conditional probabilities based on historical patterns
-- Compute expected utility for trading strategies under uncertainty
+- Represented the CEO posts as observable variables.
+- Modeled stock price changes as a hidden variable.
+- Estimated the conditional probabilities based on historical patterns.
+- Computed expected utility for trading strategies under uncertainty.
 
 ### Techniques
 - Bayesian Inference
@@ -17,9 +17,8 @@ Investigates the relationship between executive social media activity and short-
 
 ## Project 2: Structure Learning on Simulated Health Data
 
-Applies structure learning and probabilistic inference to a dataset of 10,000 simulated patients. The goal is to uncover latent relationships between lifestyle factors and health outcomes through learned Bayesian networks.
+Applied structure learning and probabilistic inference to a dataset of simulated patients. The goal was to uncover latent relationships between lifestyle factors and health outcomes through learned Bayesian networks.
 
-### Steps
 - Build a manually specified Bayesian Network and learn CPTs from data
 - Apply structure learning algorithms:
   - Hill Climb Search
